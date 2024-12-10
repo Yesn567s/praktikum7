@@ -21,6 +21,7 @@ int main()
     vector <int> cc;
     vector <int> scorepc;
     vector <int> scorecc;
+    cout<<"Sup motherfucker";
     string again;
     while(true){
         pc.clear();
