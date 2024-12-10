@@ -12,6 +12,7 @@ using namespace std;
 
 int main()
 {
+    // this is a comment
     srand(time(0));
     int totalpc=0;
     int totalcc=0;
