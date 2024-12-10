@@ -6,7 +6,7 @@ def calculator():
     print("3. Multiplication (*)")
     print("4. Division (/)")
     print("5. Exit")
-
+#calculator function
     while True:
         try:
             choice = input("\nEnter choice (1/2/3/4/5): ")
